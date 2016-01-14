@@ -9,4 +9,4 @@ from .apply_velocity_correction import _apply_velocity_correction
 from .normalize import _normalize
 from .remove_telluric import _remove_telluric
 
-__all__ = [_apply_velocity_correction, _normalize, _remove_telluric]
+__all__ = ('_apply_velocity_correction', '_normalize', '_remove_telluric')

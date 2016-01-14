@@ -26,5 +26,6 @@ from .rtruediv import _rtruediv
 from .sub import _sub
 from .truediv import _truediv
 
-__all__ = [_add, _and, _base, _eq, _ge, _iadd, _imul, _isub, _itruediv, _lshift, _lt,
-    _mul, _ne, _radd, _rmul, _rshift, _rsub, _rshift, _rsub, _rtruediv, _sub, _truediv]
+__all__ = ('_add', '_and', '_base', '_eq', '_ge', '_iadd', '_imul', '_isub', '_itruediv',
+    '_lshift', '_lt', '_mul', '_ne', '_radd', '_rmul', '_rshift', '_rsub', '_rshift',
+    '_rsub', '_rtruediv', '_sub', '_truediv')

@@ -8,4 +8,4 @@
 from .rms import _rms
 from .xcorr import _xcorr
 
-__all__ = [_rms, _xcorr]
+__all__ = ('_rms', '_xcorr')

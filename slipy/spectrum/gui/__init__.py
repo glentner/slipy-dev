@@ -14,4 +14,4 @@ from .extract_line import _extract_line
 from .fit import _fit
 from .select_line import _select_line
 
-__all__ = [_auto_fit, _base, _deblend, _draw, _extract_line, _fit, _select_line]
+__all__ = ('_auto_fit', '_base', '_deblend', '_draw', '_extract_line', '_fit', '_select_line')

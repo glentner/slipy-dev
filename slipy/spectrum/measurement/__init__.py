@@ -9,4 +9,4 @@ from .column_density import _column_density
 from .equivalent_width import _equivalent_width
 from .optical_depth import _optical_depth
 
-__all__ = [_column_density, _equivalent_width, _optical_depth]
+__all__ = ('_column_density', '_equivalent_width', '_optical_depth')

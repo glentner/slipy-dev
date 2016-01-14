@@ -12,4 +12,4 @@ from .init import _init
 from .insert import _insert
 from .resample import _resample
 
-__all__ = [_copy, _from_array, _from_file, _init, _insert, _resample]
+__all__ = ('_copy', '_from_array', '_from_file', '_init', '_insert', '_resample')

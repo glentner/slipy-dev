@@ -11,4 +11,4 @@ from .len import _len
 from .repr import _repr
 from .str import _str
 
-__all__ = [_contains, _getitem, _len, _repr, _str]
+__all__ = ('_contains', '_getitem', '_len', '_repr', '_str')
