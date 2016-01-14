@@ -12,8 +12,16 @@ from gui import *
 from measurement import *
 from operations import *
 
-class Error(Exception):
-    """Error specific to the spectrum object."""
+from astropy.utils.exceptions import AstropyUserWarning
+
+
+class SpectrumError(Exception):
+    """Error specific to the Spectrum object."""
+    pass
+
+
+class SpectrumWarning(AstropyUserWarning):
+    """Warning specific to the Spectrum object."""
     pass
 
 
