@@ -1,5 +1,5 @@
-# Copyright (c) Geoffrey Lentner 2016. All Rights Reserved.
 # Licensed under a 3-clause BSD style license - see LICENSE.rst
+# Copyright (c) Geoffrey Lentner 2016. All Rights Reserved.
 # slipy/spectrum/gui/__init__.py
 # TODO: gui/__init__.py
 
