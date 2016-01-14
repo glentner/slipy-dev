@@ -7,7 +7,6 @@ It's essential object is the *Spectrum* class, for which there is extensive func
 Documentation coming soon ...
 
 **Dependencies:**
-Python 3.x,
 [astropy](http://www.astropy.org),
 [matplotlib](http://matplotlib.org),
 [numpy](http://www.numpy.org),
